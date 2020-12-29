@@ -4,6 +4,7 @@ This add-on depends on OpenCV.
 Please install/copy OpenCV modules into blender python site-packages before intalling this add-on into blender.
 
 how to OpenCv inside blender:
+
 Windows:
   If you have Python already installed (python ver 3.7.7) 
     python -m pip install opencv-python
