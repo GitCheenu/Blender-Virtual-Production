@@ -18,3 +18,4 @@ MacOS:
     
 Copy the site-packages from python installation to Blender install( whereever:\blender-(version)\2.83(and above)\python\lib\
 
+Have Fun!
